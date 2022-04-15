@@ -44,7 +44,7 @@ Todo With Redux
 ├── package.json
 ```
 
-## Expected Outcome
+
 
 ![Todo With Redux](todo-with-redux.gif)
 
